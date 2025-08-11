@@ -1,0 +1,1 @@
+# day6-of-mySQL-hands-on
